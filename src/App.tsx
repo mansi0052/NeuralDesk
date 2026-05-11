@@ -15,7 +15,7 @@ import Notifications from "./pages/Notifications";
 import Settings from "./pages/Settings";
 
 /* NEW */
-import Chat from "./pages/chat";
+import Chat from "./pages/Chat";
 
 function App() {
   return (
