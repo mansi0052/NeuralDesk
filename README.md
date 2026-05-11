@@ -76,3 +76,24 @@ neuraldesk/
 ## License
 
 MIT
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+![Landing Page](./screenshots/landingPage.png)
+
+A clean and modern landing page showcasing the SaaS interface.
+
+---
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+Main dashboard with analytics, navigation, and core SaaS features.
+
+---
+
+### 🤖 AI Chat Interface
+![AI Chats](./screenshots/aiChats.png)
+
+Interactive AI chat module for real-time conversations and assistance.
